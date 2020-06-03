@@ -6,7 +6,7 @@ layout: feed
 
 	<title>Ian Bourke's Blog</title>
 	<link href="http://ianbrk.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://ianbrk.github.io/blog"/>
+	<link href="http://ianbrk.github.io/blog/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://ianbrk.github.io/blog</id>
 	<author>
